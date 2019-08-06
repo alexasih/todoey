@@ -1,2 +1,2 @@
 # todoey
-to-do list application
+to-do list iOS application

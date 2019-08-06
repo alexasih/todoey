@@ -1,2 +1,2 @@
 # todoey
-recreating the todoey application
+to-do list application
